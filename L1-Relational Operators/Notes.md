@@ -23,5 +23,4 @@ These expressions can be passed to `System.out.println()` and assigned to variab
 
 Let's see this in the [**Sandbox**][sandbox].
 
-
 [sandbox]:../L1.java
