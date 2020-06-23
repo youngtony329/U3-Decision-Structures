@@ -13,7 +13,7 @@ Example:
 * `19 <= 19` returns `true`
 * `25 != 25` returns `false`
 
-Keep in mind the [**Order of Precedence**](http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html), which puts relational operators after arithmetic operators. 
+Keep in mind the [**Order of Precedence**](http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html), which puts relational operators after arithmetic operators.
 ![](relational%20operators.png)
 
 Examples of boolean expressions:
