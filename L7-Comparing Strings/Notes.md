@@ -36,9 +36,5 @@ The `String` class provides a number of methods to compare String data.
 
 Let's explore these two methods in the [**Sandbox**][sandbox]
 
-
-
-
-
 [sandbox]:../L7.java
 [pet]: ../Pet.java
