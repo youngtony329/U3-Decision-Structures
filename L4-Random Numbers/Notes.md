@@ -10,11 +10,11 @@ Then `Random` class of the `java.utils` package includes many methods to assist 
 
 The one method we will primarily be working with is: 
 
-* `nextInt(int n)` - returns a random integer from 0 to `n`
+* `nextInt(int n)` - returns a random integer from 0 to `n` but not including `n`
 
 Example: 
-* `nextInt(5)` will return a random integer from 0 to 5
-* `nextInt(5) + 1` wil return a random integer from 1 to 6
+* `nextInt(7)` will return a random integer from 0 to 6
+* `nextInt(6) + 1` wil return a random integer from 1 to 6
 
 To use the `Random` class, we need to create an object and call the method from above. 
 
