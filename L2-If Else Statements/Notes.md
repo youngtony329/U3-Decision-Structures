@@ -11,7 +11,7 @@ Let's explore an example in the [**Sandbox**][sandbox]:
 ```java
 import java.util.Scanner;
 
-public class L2{
+public class Grades{
 
     public static void main(String[] args){
         Scanner read = new Scanner(System.in);
