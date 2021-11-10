@@ -1,7 +1,5 @@
 # Unit 3 - Decision Structures
 
-## [**MovieTickets Sandbox**][sandbox]
-
 ## If Statements
 
 Thus far, our programs have executed linearly. However, programs are able to branch, create many possible outcomes based on user input. In other words, programs can make decisions. 
